@@ -1,0 +1,6 @@
+{
+  "name": "Sáng kiến Mô hình Sách - Trường Sĩ quan Pháo binh",
+  "description": "Website sách điện tử 3D tương tác đa phương tiện Sáng kiến Mô hình Sách - Bộ Tư lệnh Pháo binh, Trường Sĩ quan Pháo binh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
